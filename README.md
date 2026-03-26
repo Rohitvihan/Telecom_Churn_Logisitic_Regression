@@ -8,31 +8,6 @@ This project builds a **Logistic Regression model** to predict whether a custome
 
 The model analyzes customer data such as contract type, monthly charges, and internet service to identify churn patterns.
 
----
-
-# 📂 Dataset
-
-The dataset used is the **Telecom Customer Churn Dataset**.
-
-It contains customer information such as:
-
-* Customer ID
-* Gender
-* Senior Citizen
-* Tenure
-* Internet Service
-* Contract Type
-* Monthly Charges
-* Total Charges
-* Churn (Target Variable)
-
-Target Variable:
-
-* **Churn = Yes (Customer leaves)**
-* **Churn = No (Customer stays)**
-
----
-
 # 🛠 Technologies Used
 
 * Python
